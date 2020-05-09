@@ -16,6 +16,6 @@ class Position
 
     public static function Hello()
     {
-        echo "hello world 1";
+        echo "hello world 233";
     }
 }
