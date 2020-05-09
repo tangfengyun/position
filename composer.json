@@ -1,0 +1,21 @@
+{
+    "name": "positon/positon",
+    "description": "about all position",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "fengyun",
+            "email": "3155614126@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fengyun\\Position\\": "src/Fengyun/Position"
+        }
+    }
+}
